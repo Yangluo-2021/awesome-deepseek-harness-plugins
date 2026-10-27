@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "Yangluo-2021/dsh-restart-button",
+  "name": "dsh-restart-button",
+  "repository": "https://github.com/Yangluo-2021/dsh-restart-button",
+  "category": "ui",
+  "description": {
+    "en": "Adds a restart button to the top-right corner of the DeepSeek Harness desktop client; it restarts the whole desktop app gracefully and prompts for confirmation only when a task is running.",
+    "zh": "在 DeepSeek Harness 桌面客户端右上角添加常驻重启按钮：优雅重启整个桌面端，有任务运行时才弹出确认。"
+  },
+  "added": "2026-10-27"
+}
